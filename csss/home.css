@@ -1,0 +1,52 @@
+p, label {
+    color: #737373;
+    padding: 0px 0px 0px 70px;
+    font: 400 25px/0.9 'Berlin Sans FB';
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #737373;
+    text-align: right;
+    padding: 16px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Berlin Sans FB';
+    letter-spacing: 2px;
+}
+
+li a:hover {
+    color: lightgrey;
+}
+
+img {
+    width: 450px;
+    height: 450px;
+    object-fit: contain;
+    float: right;
+    padding: 55px 100px 0px 0px;
+}
+
+button {
+    background-color: transparent;
+    border-radius: 12px; 
+    border-color: #DF5A66;
+    color: #DF5A66; 
+    border: 2;
+    font-family: 'Berlin Sans FB';
+    font-weight: 100;
+    letter-spacing: 2px;
+    font-size: 20px;
+    padding: 10px 30px;
+}
